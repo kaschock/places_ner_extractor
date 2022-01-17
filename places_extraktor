@@ -1,0 +1,51 @@
+from deeppavlov import configs, build_model
+from collections import ChainMap
+from nltk.tokenize import sent_tokenize
+
+ner_model = build_model(configs.ner.ner_ontonotes_bert_mult)
+raw_text = open("data/dvoinikDE1Kapitel.txt", "r").read()
+
+cleaned_text = raw_text.replace("/n", " ").replace("»", " ").replace("«", " ").replace("\n", " ").replace(" ", " ")
+
+sentences = sent_tokenize(cleaned_text)
+sentences_list = []
+
+for sentence in sentences:
+    sentences_list.append(sentence)
+
+found_ne = ner_model(sentences_list)
+length = len(found_ne[1])
+
+i = 0
+dictionary_collection = []
+
+while i <= length - 1:
+    tuple1 = (found_ne[0][i])
+    tuple2 = (found_ne[1][i])
+
+    dictionary = dict(zip(tuple1, tuple2))
+
+    dictionary_collection.append(dictionary)
+    i = i + 1
+
+dictionary_collection = dict(ChainMap(*dictionary_collection))
+
+#I-Fac --> FACILITY Buildings, airports, highways, bridges, etc.
+#GPE --> Countries, cities, states
+#LOCATION --> Non-GPE locations, mountain ranges, bodies of water
+#Here “B” denotes beginning of an entity, “I” stands for “inside”
+# and is used for all words comprising the entity except the first one,
+# and “O” means the absence of entity.
+
+
+list_of_places = [k + " --> " + v for k, v in dictionary_collection.items() if
+                  v == 'B-GPE' or v == 'I-GPE' or v == "B-FAC" or v == "I-FAC"  or v == "B-LOC" or v == "I-LOC"]
+
+
+with open('liste_der_orte_in_Doppelgänger.txt', 'w') as f:
+        for place in list_of_places:
+            f.write(place + "\n")
+
+
+
+print("Fertig, die Datei wurde erstellt/überschrieben")
