@@ -1,0 +1,621 @@
+
+S : B-GPE
+. : I-GPE
+. : I-GPE
+
+K : B-GPE
+. : I-GPE
+. : I-GPE
+. : I-GPE
+
+Petersburg : B-GPE
+
+Kanal : B-FAC
+
+Gouvernement : B-GPE
+R : I-GPE
+. : I-GPE
+. : I-GPE
+
+Katharinenkanals : B-FAC
+
+den : B-FAC
+Wosnessenskij : I-FAC
+- : I-FAC
+Prospekt : I-FAC
+
+der : B-LOC
+Newa : I-LOC
+
+Wosnessenskij : B-FAC
+- : I-FAC
+Prospekt : I-FAC
+
+den : B-FAC
+K : I-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+- : I-FAC
+Boulevard : I-FAC
+
+der : B-LOC
+Kleinen : I-LOC
+Newa : I-LOC
+
+der : B-LOC
+Wassilij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Rasumichin : B-GPE
+
+Rasumichin : B-GPE
+
+Petersburg : B-GPE
+
+Moskau : B-GPE
+
+der : B-FAC
+Nikolaus : I-FAC
+- : I-FAC
+Brücke : I-FAC
+
+Domes : B-FAC
+
+den : B-FAC
+Fünf : I-FAC
+- : I-FAC
+Ecken : I-FAC
+
+der : B-LOC
+Krestowskij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Amerika : B-GPE
+
+den : B-GPE
+Vereinigten : I-GPE
+Staaten : I-GPE
+von : I-GPE
+Nordamerika : I-GPE
+
+Rodja : B-GPE
+
+den : B-FAC
+Jussupow : I-FAC
+- : I-FAC
+Garten : I-FAC
+
+Sossimow : B-GPE
+
+Petersburg : B-GPE
+
+Saraisk : B-GPE
+, : I-GPE
+Gouvernement : I-GPE
+Rjasan : I-GPE
+
+Mitrej : B-GPE
+
+Petersburg : B-GPE
+
+das : B-FAC
+Bakalejewsche : I-FAC
+Haus : I-FAC
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Moskau : B-GPE
+
+Moskau : B-GPE
+
+Samowar : B-LOC
+der : I-LOC
+Wirtin : I-LOC
+
+Saraisk : B-GPE
+
+W : B-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+- : I-FAC
+Prospekte : I-FAC
+
+der : B-FAC
+Sadowaja : I-FAC
+- : I-FAC
+Straße : I-FAC
+
+Peterburgskaja : B-GPE
+
+Peterburgskaja : B-GPE
+
+Peterburgskaja : B-GPE
+
+Moskau : B-GPE
+
+Sametow : B-GPE
+
+Das : B-FAC
+Potschinkowsche : I-FAC
+Haus : I-FAC
+
+Sadowaja : B-FAC
+- : I-FAC
+Straße : I-FAC
+
+Petersburg : B-GPE
+
+Schillschen : B-FAC
+Hause : I-FAC
+
+Stolpern : B-GPE
+
+Das : B-FAC
+Koselsche : I-FAC
+Haus : I-FAC
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Rodja : B-GPE
+
+Rodja : B-GPE
+
+Praskowja : B-GPE
+Pawlownas : I-GPE
+
+dem : B-FAC
+Bakalejewschen : I-FAC
+Hotel : I-FAC
+
+Redeeifer : B-GPE
+
+Petersburg : B-GPE
+
+dem : B-FAC
+Mitrofan : I-FAC
+- : I-FAC
+Friedhof : I-FAC
+
+Dunja : B-GPE
+
+Petersburg : B-GPE
+
+Rodja : B-GPE
+
+Porfirij : B-GPE
+
+Porfirij : B-GPE
+
+Porfirij : B-GPE
+
+Moskauer : B-GPE
+
+Sibirien : B-GPE
+
+Rußland : B-GPE
+
+Bakalejew : B-GPE
+
+dem : B-FAC
+Bakalejewschen : I-FAC
+Hotel : I-FAC
+
+der : B-FAC
+Glockenturm : I-FAC
+der : I-FAC
+W : I-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+- : I-FAC
+schen : I-FAC
+Kirche : I-FAC
+
+Billard : B-FAC
+
+Billard : B-FAC
+
+Toulon : B-GPE
+
+Paris : B-GPE
+
+Ägypten : B-GPE
+
+Rußland : B-GPE
+
+Wilna : B-GPE
+
+Monde : B-LOC
+
+Amerika : B-GPE
+
+Schweiz : B-GPE
+
+Baden : B-GPE
+
+der : B-LOC
+Golf : I-LOC
+von : I-LOC
+Neapel : I-LOC
+
+Meer : B-LOC
+
+Jussupow : B-FAC
+- : I-FAC
+Garten : I-FAC
+
+der : B-FAC
+Station : I-FAC
+Malaja : I-FAC
+Wischera : I-FAC
+
+Moskau : B-GPE
+
+Petersburg : B-GPE
+
+Moskau : B-GPE
+
+Petersburg : B-GPE
+
+dem : B-FAC
+Bakalejewschen : I-FAC
+Hotel : I-FAC
+
+Lushin : B-GPE
+
+Porfirij : B-GPE
+
+Porfirij : B-GPE
+
+Samowar : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Sibirien : B-GPE
+
+Filipp : B-GPE
+
+Dunja : B-GPE
+
+Dunja : B-GPE
+
+Petersburg : B-GPE
+
+Rußland : B-GPE
+
+Petersburger : B-GPE
+
+Sewastopol : B-GPE
+
+Sewastopol : B-GPE
+
+Porfirijs : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+der : B-FAC
+Meschtschanskaja : I-FAC
+- : I-FAC
+Straße : I-FAC
+
+Frankreich : B-GPE
+
+Jamaikarum : B-GPE
+
+dem : B-FAC
+Kirchhof : I-FAC
+
+Polen : B-GPE
+
+Polen : B-GPE
+
+Tische : B-FAC
+
+Petersburg : B-GPE
+
+T : B-GPE
+. : I-GPE
+. : I-GPE
+. : I-GPE
+
+T : B-GPE
+. : I-GPE
+. : I-GPE
+. : I-GPE
+
+T : B-GPE
+. : I-GPE
+. : I-GPE
+. : I-GPE
+
+T : B-GPE
+. : I-GPE
+. : I-GPE
+. : I-GPE
+
+Berlin : B-GPE
+
+Sibirien : B-GPE
+
+Petersburg : B-GPE
+
+Sibirien : B-GPE
+
+Wosnessenskij : B-FAC
+- : I-FAC
+Prospekt : I-FAC
+
+Toulon : B-GPE
+
+Ägypten : B-GPE
+
+den : B-GPE
+St : I-GPE
+. : I-GPE
+Bernhard : I-GPE
+
+Paris : B-GPE
+
+Petersburg : B-GPE
+
+der : B-FAC
+Meschtschanskaja : I-FAC
+- : I-FAC
+Straße : I-FAC
+
+Erde : B-LOC
+
+den : B-FAC
+Trödelmarkt : I-FAC
+
+den : B-FAC
+Heumarkt : I-FAC
+
+der : B-LOC
+Krestowskij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Saraisk : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Heumarkt : B-FAC
+
+Saale : B-LOC
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburger : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Rußland : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+die : B-LOC
+ägyptische : I-LOC
+Wüste : I-LOC
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburger : B-GPE
+
+Petersburg : B-GPE
+
+dem : B-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+schen : I-FAC
+Hotel : I-FAC
+
+Amerika : B-GPE
+
+der : B-LOC
+Jelagin : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Trottoir : B-FAC
+
+Stolz : B-GPE
+
+Dunja : B-GPE
+
+der : B-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+schen : I-FAC
+Brücke : I-FAC
+
+München : B-GPE
+
+Amerika : B-GPE
+
+Sibirien : B-GPE
+
+Sibirien : B-GPE
+
+Amerika : B-GPE
+
+der : B-LOC
+Wassilij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Kleinen : B-LOC
+Prospekt : I-LOC
+
+Paris : B-GPE
+
+der : B-LOC
+Wassilij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+Petersburg : B-GPE
+
+die : B-FAC
+Tutschkow : I-FAC
+- : I-FAC
+Brücke : I-FAC
+
+Peterburgskaja : B-GPE
+
+der : B-LOC
+Kleinen : I-LOC
+Newa : I-LOC
+
+Zur : B-FAC
+Stadt : I-FAC
+Adrianopel : I-FAC
+
+den : B-FAC
+Petrowskij : I-FAC
+- : I-FAC
+Park : I-FAC
+
+die : B-FAC
+Tutschkow : I-FAC
+- : I-FAC
+Brücke : I-FAC
+
+die : B-FAC
+Kleine : I-FAC
+Newa : I-FAC
+
+den : B-FAC
+Petrowskij : I-FAC
+- : I-FAC
+Park : I-FAC
+
+dem : B-FAC
+Petrowskij : I-FAC
+- : I-FAC
+Park : I-FAC
+
+der : B-LOC
+Kleinen : I-LOC
+Newa : I-LOC
+
+der : B-LOC
+Kleinen : I-LOC
+Newa : I-LOC
+
+die : B-LOC
+Petrowskij : I-LOC
+- : I-LOC
+Insel : I-LOC
+
+dem : B-FAC
+Petrowskij : I-FAC
+- : I-FAC
+Park : I-FAC
+
+die : B-FAC
+. : I-FAC
+. : I-FAC
+. : I-FAC
+skaja : I-FAC
+- : I-FAC
+Straße : I-FAC
+
+Amerika : B-GPE
+
+Amerika : B-GPE
+
+Amerika : B-GPE
+
+Sibirien : B-GPE
+
+Sibirien : B-GPE
+
+Sibirien : B-GPE
+
+Jerusalem : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Peterburgskaja : B-GPE
+
+Sibirien : B-GPE
+
+dem : B-FAC
+Wosnessenskij : I-FAC
+- : I-FAC
+Prospekte : I-FAC
+
+den : B-LOC
+Fünf : I-LOC
+- : I-LOC
+Ecken : I-LOC
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+Rußlands : B-GPE
+
+Sibirien : B-GPE
+
+Rodja : B-GPE
+
+Sibirien : B-GPE
+
+Petersburg : B-GPE
+
+Sibirien : B-GPE
+
+Petersburg : B-GPE
+
+Petersburg : B-GPE
+
+den : B-LOC
+Schuppen : I-LOC
+am : I-LOC
+Ufer : I-LOC
+des : I-LOC
+Irtysch : I-LOC
+
+Polen : B-GPE
+
+Asien : B-LOC
+
+Europa : B-LOC
