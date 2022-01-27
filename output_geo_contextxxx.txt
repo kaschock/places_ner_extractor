@@ -1,0 +1,648 @@
+' S ' [B-GPE] in : ' junger Mann seine Wohnung , ein möbliertes Kämmerchen in der S . . . gasse , und trat auf die Straße hinaus ; langsam , wie '
+
+
+' K ' [B-GPE] in : ' , wie unentschlossen , schlug er die Richtung nach der K . . . brücke ein . Einer Begegnung mit seiner Wirtin auf der Treppe war '
+
+
+' Petersburg ' [B-GPE] in : ' , die sich in diesen inneren Straßen und Gassen von Petersburg zusammendrängte , brachten mitunter in das Gesamtbild einen so starken Prozentsatz derartiger Gestalten hinein , '
+
+
+' Kanal ' [B-FAC] in : ' Gebäude näherte , das mit der einen Seite nach dem Kanal , mit der andern nach der . . . straße zu lag . Dieses Haus '
+
+
+' Gouvernement ' [B-GPE] in : ' erhalten . Ich habe eine Mutter und eine Schwester im Gouvernement R . . . , diese werden mir Geld schicken , und ich werde bezahlen '
+
+
+' Katharinenkanals ' [B-FAC] in : ' halbe Stunde , vielleicht auch länger , am Ufer des Katharinenkanals entlang und blickte prüfend nach den zum Kanal hinabführenden Treppen , an denen er vorbeikam '
+
+
+' den ' [B-FAC] in : ' dessen bewußt ! Eile war unbedingt nötig ! Er ging den Wosnessenskij - Prospekt entlang nach der Newa zu . Aber unterwegs stellte er doch noch '
+
+
+' der ' [B-LOC] in : ' nötig ! Er ging den Wosnessenskij - Prospekt entlang nach der Newa zu . Aber unterwegs stellte er doch noch wieder eine andre Überlegung an . '
+
+
+' Wosnessenskij ' [B-FAC] in : ' sondern es ereignete sich etwas anderes . Als er vom Wosnessenskij - Prospekt auf einen freien Platz heraustrat , sah er links den Eingang zu einem '
+
+
+' den ' [B-FAC] in : ' er über den Platz ging . Aber als er auf den K . . . - Boulevard gelangte , wo er vor zwei Tagen das junge '
+
+
+' der ' [B-LOC] in : ' Er blieb stehen , als er zu der Uferstraße an der Kleinen Newa , auf der Wassilij - Insel nahe bei der Brücke , gelangt war '
+
+
+' der ' [B-LOC] in : ' er zu der Uferstraße an der Kleinen Newa , auf der Wassilij - Insel nahe bei der Brücke , gelangt war . › Hier wohnt er '
+
+
+' Rasumichin ' [B-GPE] in : ' kommt das , ich bin doch nicht mit Absicht zu Rasumichin gegangen ! Wieder dieselbe Geschichte wie damals . . . Es wäre mir doch interessant '
+
+
+' Rasumichin ' [B-GPE] in : ' ihn jetzt nicht besuchen können ? ‹ Er stieg zu Rasumichin nach dem vierten Stockwerke hinauf . Dieser war zu Hause , in seinem Kämmerchen , '
+
+
+' Petersburg ' [B-GPE] in : ' Art RadischtschewEr gab im Jahre 1790 eine » Reise von Petersburg nach Moskau « heraus , in der er die furchtbaren Leiden der Leibeigenen schilderte und '
+
+
+' Moskau ' [B-GPE] in : ' gab im Jahre 1790 eine » Reise von Petersburg nach Moskau « heraus , in der er die furchtbaren Leiden der Leibeigenen schilderte und auf die '
+
+
+' der ' [B-FAC] in : ' « Aber Raskolnikow war schon auf der Straße . Auf der Nikolaus - Brücke gab es einen für ihn sehr unangenehmen Vorfall , der ihn wieder '
+
+
+' Domes ' [B-FAC] in : ' bei der Newa nur selten vorkommt . Die Kuppel des Domes , die sich von keinem Punkte aus besser präsentiert , als wenn man auf dieser '
+
+
+' den ' [B-FAC] in : ' – da erinnerte ich mich nur , daß sie bei den Fünf - Ecken lag , im Charlamowschen Hause . Ich suchte also wie verrückt nach '
+
+
+' der ' [B-LOC] in : ' von einer Bulldogge , von Ohrgehängen und Kettchen , von der Krestowskij - Insel , von einem Hausknecht , von dem Revieraufseher Nikodim Fomitsch und seinem '
+
+
+' Amerika ' [B-GPE] in : ' davonzugehen . . . weit weg . . . nach Amerika , . . . dann können sie mir nachpfeifen ! Den Schuldschein nehme ich auch '
+
+
+' den ' [B-GPE] in : ' wahrhaftiger Gott ! Nun , und jetzt kommen wir zu den Vereinigten Staaten von Nordamerika , wie es bei uns im Gymnasium hieß . Ich bemerke '
+
+
+' Rodja ' [B-GPE] in : ' weicher und zarter geworden . . . Weißt du , Rodja , um in der Welt Karriere zu machen , dazu ist meiner Ansicht nach weiter '
+
+
+' den ' [B-FAC] in : ' « , erklärte Rasumichin in bestimmtem Tone . » In den Jussupow - Garten , und dann gehen wir in den Kristallpalast . « » Morgen '
+
+
+' Sossimow ' [B-GPE] in : ' du wirst doch kommen ? « wandte sich Rasumichin an Sossimow . » Vergiß es nicht ; du hast es mir versprochen . « » Vielleicht '
+
+
+' Petersburg ' [B-GPE] in : ' der eigentlich auch : er ist erst gestern hier in Petersburg angekommen ; er hat hier geschäftliche Angelegenheiten zu erledigen . Wir sehen einander nur so '
+
+
+' Saraisk ' [B-GPE] in : ' Gouvernement und Kreise wie ich , nämlich aus dem Kreise Saraisk , Gouvernement Rjasan . Mikolai ist zwar kein Säufer , trinkt aber doch gern einmal '
+
+
+' Mitrej ' [B-GPE] in : ' , steckte das übrige Geld ein und ging weg . Mitrej habe ich damals nicht mit ihm zusammen gesehen . Am andern Tage hörte ich , '
+
+
+' Petersburg ' [B-GPE] in : ' viel Erkundigungen einziehen , da ich selbst eben erst nach Petersburg zugezogen bin « , erwiderte Pjotr Petrowitsch gekränkt . » Es sind übrigens zwei saubere '
+
+
+' das ' [B-FAC] in : ' Lebesjatnikow . Er ist es auch gewesen , der mir das Bakalejewsche Haus empfohlen hat . . . « » Lebesjatnikow ? « sagte Raskolnikow langsam '
+
+
+' Petersburg ' [B-GPE] in : ' . » Sehen Sie , ich habe seit zehn Jahren Petersburg nicht besucht . Alle diese unsere Neuerungen , Reformen , Ideen , all das hat '
+
+
+' Petersburg ' [B-GPE] in : ' und alles zu sehen , muß man denn doch in Petersburg sein . Nun , und meine Ansicht ist eben , daß man am meisten lernt '
+
+
+' Moskau ' [B-GPE] in : ' besseren Kreisen gehören , falsche Banknoten ; dort , in Moskau , wird eine ganze Bande abgefaßt , welche falsche Staatsschuldscheine der letzten Prämienanleihe anfertigte , '
+
+
+' Moskau ' [B-GPE] in : ' meinen Sie das ? « » Was antwortete denn in Moskau Ihr Dozent auf die Frage , warum er Staatsschuldscheine gefälscht habe ? › Alle bereichern '
+
+
+' Samowar ' [B-LOC] in : ' ihm zugewendet , und blies gebückt die Glut in dem Samowar der Wirtin an . Sie hörte nichts . Und wer konnte auch auf den Gedanken '
+
+
+' Saraisk ' [B-GPE] in : ' er auch . « » Bist du nicht auch aus Saraisk ? Aus welchem Gouvernement bist du ? « Der Bursche musterte den Fragenden von neuem '
+
+
+' W ' [B-FAC] in : ' , das Trottoir entlang , in der Richtung nach dem W . . . - Prospekte . Als er den Platz verlassen hatte , geriet er '
+
+
+' der ' [B-FAC] in : ' gekommen , die ein Knie bildet und vom Heumarkte nach der Sadowaja - Straße führt . In der letzten Zeit hatte es für ihn sogar einen '
+
+
+' Peterburgskaja ' [B-GPE] in : ' geworden – Feuer auf den Peski – Feuer in der Peterburgskaja – nochmal Feuer in der Peterburgskaja – nochmal Feuer in der Peterburgskaja – Isler – '
+
+
+' Peterburgskaja ' [B-GPE] in : ' – Feuer in der Peterburgskaja – nochmal Feuer in der Peterburgskaja – nochmal Feuer in der Peterburgskaja – Isler – Isler – Isler – Isler – '
+
+
+' Peterburgskaja ' [B-GPE] in : ' nochmal Feuer in der Peterburgskaja – nochmal Feuer in der Peterburgskaja – Isler – Isler – Isler – Isler – Massimo . . . Ah , '
+
+
+' Moskau ' [B-GPE] in : ' neulich in den › Moskauer Nachrichten ‹ , daß in Moskau eine ganze Bande von Fälschern abgefaßt ist . Es war eine ordentliche organisierte Gesellschaft . '
+
+
+' Sametow ' [B-GPE] in : ' zuckte und zitterte . Er beugte sich ganz nahe zu Sametow hin und bewegte die Lippen , ohne ein Wort zu sprechen ; das dauerte etwa '
+
+
+' Das ' [B-FAC] in : ' den bloßen Gedanken reiße ich ihm die Nase ab ! Das Potschinkowsche Haus , Nr . 47 , in der Wohnung des Beamten Babuschkin . . '
+
+
+' Sadowaja ' [B-FAC] in : ' , vergiß das nicht ! « Raskolnikow ging bis zur Sadowaja - Straße und bog dort um die Ecke . Rasumichin sah ihm in Gedanken versunken '
+
+
+' Petersburg ' [B-GPE] in : ' dran ! « » Nein , was es hier in Petersburg nicht alles gibt ! « rief der jüngere ganz begeistert . » Außer Vater und '
+
+
+' Schillschen ' [B-FAC] in : ' Raskolnikow ; ich bin ein gewesener Student und wohne im Schillschen Hause , hier in der Querstraße , nicht weit von hier . Wohnung Nr . '
+
+
+' Stolpern ' [B-GPE] in : ' und stieß ihn auf die Straße . Dieser kam ins Stolpern , fiel jedoch nicht hin , sondern richtete sich wieder auf , blickte alle Zuschauer '
+
+
+' Das ' [B-FAC] in : ' hilfsbereite Hände ; der Überfahrene wurde aufgehoben und fortgetragen . Das Koselsche Haus war nur etwa dreißig Schritte entfernt . Raskolnikow ging hinten , hielt vorsichtig '
+
+
+' Petersburg ' [B-GPE] in : ' ) » Damals war der Kammerjunker Fürst Schtschegolskoi eben aus Petersburg angekommen ; er tanzte mit mir eine Masurka und wollte am andern Tage zu uns '
+
+
+' Petersburg ' [B-GPE] in : ' können Sie nicht auf die Straße ; bei uns in Petersburg ist es in dieser Hinsicht . . . Na , schweigen wir davon ! . '
+
+
+' Rodja ' [B-GPE] in : ' , der betrinkt sich nie ! Den schleppe ich zu Rodja , und dann komme ich sofort wieder zu Ihnen ; mithin bekommen Sie binnen einer '
+
+
+' Rodja ' [B-GPE] in : ' . . Aber wir hatten heute , als er zu Rodja kam , alle das Gefühl , daß dieser Mensch nicht in unsern Kreis paßt . '
+
+
+' Praskowja ' [B-GPE] in : ' Bei solchen Selbstgesprächen traf ihn Sossimow an , der in Praskowja Pawlownas Wohnstube die Nacht zugebracht hatte . Er wollte nun nach Hause gehen , vorher '
+
+
+' dem ' [B-FAC] in : ' worden . « Punkt neun Uhr stellte sich Rasumichin in dem Bakalejewschen Hotel garni ein . Die beiden Damen warteten auf ihn schon lange mit schmerzlicher '
+
+
+' Redeeifer ' [B-GPE] in : ' hatte entschlüpfen lassen , da er bei seinem Lieblingsthema in Redeeifer geraten war , machten alle Anwesenden finstere Gesichter . Raskolnikow saß in Gedanken versunken und '
+
+
+' Petersburg ' [B-GPE] in : ' jetzt lossagen will , wo er euch schon hat nach Petersburg kommen lassen . Nun , was meinst du , kann man einem solchen Manne wie '
+
+
+' dem ' [B-FAC] in : ' . . . bei der Mittagsmesse . . . auf dem Mitrofan - Friedhof , . . . und dann bei uns . . . bei '
+
+
+' Dunja ' [B-GPE] in : ' » wir essen selbstverständlich zusammen zu Mittag . Komm , Dunja . . . Und du , Rodja , solltest ausgehen , einen kleinen Spaziergang machen '
+
+
+' Petersburg ' [B-GPE] in : ' . . . aber wo kann man wohl hier in Petersburg frische Luft atmen ? Hier ist es auch auf den Straßen gerade wie in einem '
+
+
+' Rodja ' [B-GPE] in : ' , ich meine diese Sofja Semjonowna , die eben zu Rodja kam . . . « » Warum haben Sie denn Bange vor der ? « '
+
+
+' Porfirij ' [B-GPE] in : ' Aber wäre es nicht besser , wenn ich mich an Porfirij persönlich wendete ? Wie denkst du darüber ? Ich möchte die Sache möglichst schnell erledigen '
+
+
+' Porfirij ' [B-GPE] in : ' nicht an das Polizeibureau , sondern auf jeden Fall an Porfirij ! « rief Rasumichin in lebhaftem Eifer . » Das freut mich aber ! Da '
+
+
+' Porfirij ' [B-GPE] in : ' überkam sie . Rasumichin befand sich , während sie zu Porfirij gingen , in einem Zustande besonderer Aufregung . » Das ist prächtig , Bruder ! '
+
+
+' Moskauer ' [B-GPE] in : ' deiner Wimpern einzig und allein daher kommt , daß der Moskauer Glockenturm Iwan Welikij zweihundertfünfzig Fuß hoch ist , und ich will dir das klar , '
+
+
+' Sibirien ' [B-GPE] in : ' das ? Die Gesellschaft hat sich doch durch Verschickung nach Sibirien , durch Gefängnisse , Untersuchungskommissare und Zuchthäuser genug und übergenug gesichert : wozu sich da '
+
+
+' Rußland ' [B-GPE] in : ' gut sein ; wer hält sich jetzt bei uns in Rußland nicht für einen Napoleon ? « erwiderte Porfirij auf einmal in außerordentlich familiärer Redeweise . '
+
+
+' Bakalejew ' [B-GPE] in : ' widerlegen . Sie näherten sich bereits dem Hotel garni von Bakalejew , wo Pulcheria Alexandrowna und Dunja sie schon lange erwarteten . Rasumichin blieb im Eifer '
+
+
+' dem ' [B-FAC] in : ' stieg immer mehr . Sie waren schon am Eingange zu dem Bakalejewschen Hotel garni angelangt . » Geh allein hinein « , sagte Raskolnikow plötzlich . '
+
+
+' der ' [B-FAC] in : ' er unter andern Umständen nie mehr gedacht haben würde ; der Glockenturm der W . . . - schen Kirche ; das Billard in einem Restaurant '
+
+
+' Billard ' [B-FAC] in : ' der W . . . - schen Kirche ; das Billard in einem Restaurant und ein Offizier am Billard , der Zigarrengeruch in einem Tabaksladen im '
+
+
+' Billard ' [B-FAC] in : ' ; das Billard in einem Restaurant und ein Offizier am Billard , der Zigarrengeruch in einem Tabaksladen im Souterrain , eine Kneipe , eine Hintertreppe , '
+
+
+' Toulon ' [B-GPE] in : ' Ein wahrer Herrscher , dem alles erlaubt ist , zerstört Toulon , richtet in Paris ein Blutbad an , vergißt eine Armee in Ägypten , opfert '
+
+
+' Paris ' [B-GPE] in : ' dem alles erlaubt ist , zerstört Toulon , richtet in Paris ein Blutbad an , vergißt eine Armee in Ägypten , opfert eine halbe Million Menschen '
+
+
+' Ägypten ' [B-GPE] in : ' in Paris ein Blutbad an , vergißt eine Armee in Ägypten , opfert eine halbe Million Menschen in dem Feldzuge gegen Rußland und setzt sich in '
+
+
+' Rußland ' [B-GPE] in : ' , opfert eine halbe Million Menschen in dem Feldzuge gegen Rußland und setzt sich in Wilna durch ein Wortspiel darüber hinweg ; und ein solcher Mann '
+
+
+' Wilna ' [B-GPE] in : ' Menschen in dem Feldzuge gegen Rußland und setzt sich in Wilna durch ein Wortspiel darüber hinweg ; und ein solcher Mann wird noch nach seinem Tode '
+
+
+' Monde ' [B-LOC] in : ' Fenster hinein . › Diese tiefe Stille rührt wohl vom Monde her ‹ , dachte Raskolnikow , › er gibt jetzt gewiß gerade ein Rätsel auf '
+
+
+' Amerika ' [B-GPE] in : ' Leidenschaft bildete , den Vorschlag machte , mit mir nach Amerika oder der Schweiz zu fliehen , hegte ich doch wohl dabei die allerehrerbietigsten Gefühle und '
+
+
+' Schweiz ' [B-GPE] in : ' den Vorschlag machte , mit mir nach Amerika oder der Schweiz zu fliehen , hegte ich doch wohl dabei die allerehrerbietigsten Gefühle und dachte unser beiderseitiges '
+
+
+' Baden ' [B-GPE] in : ' die ärztliche Untersuchung konstatierte einen Schlagfluß , herbeigeführt durch das Baden unmittelbar nach einem reichlichen Mittagessen , bei dem sie fast eine ganze Flasche Wein ausgetrunken '
+
+
+' der ' [B-LOC] in : ' Sie , da erscheint die Abendröte , und da ist der Golf von Neapel und das Meer , man sieht das an , und es stimmt '
+
+
+' Meer ' [B-LOC] in : ' , und da ist der Golf von Neapel und das Meer , man sieht das an , und es stimmt einen bloß schwermütig und traurig . '
+
+
+' Jussupow ' [B-FAC] in : ' Ich höre , der Luftschiffer Berg will nächsten Sonntag im Jussupow - Garten mit einem riesigen Ballon aufsteigen und lade zur Teilnahme an der Fahrt gegen '
+
+
+' der ' [B-FAC] in : ' zweitemal vorgestern , unterwegs , in der Morgendämmerung , auf der Station Malaja Wischera ; und das drittemal vor zwei Stunden , in der Wohnung , '
+
+
+' Moskau ' [B-GPE] in : ' , eine frühere Leibeigene ; sie hat das Schneidern in Moskau gelernt , ein hübsches Mädchen ) . Sie stand da und drehte sich vor mir '
+
+
+' Petersburg ' [B-GPE] in : ' , fast genau in dem Augenblicke , als ich in Petersburg ankam . Noch in Moskau hatte ich die Vorstellung , daß ich diese Reise machte '
+
+
+' Moskau ' [B-GPE] in : ' Augenblicke , als ich in Petersburg ankam . Noch in Moskau hatte ich die Vorstellung , daß ich diese Reise machte , um mich um Awdotja '
+
+
+' Petersburg ' [B-GPE] in : ' » Mit dem größten Vergnügen ! Da ich hierher nach Petersburg gekommen bin und jetzt eine . . . eine größere Reise anzutreten beabsichtige , so '
+
+
+' dem ' [B-FAC] in : ' schon fast acht Uhr ; beide machten sich eilig nach dem Bakalejewschen Hotel garni auf , um noch vor Lushin dort einzutreffen . » Nun , '
+
+
+' Lushin ' [B-GPE] in : ' nach dem Bakalejewschen Hotel garni auf , um noch vor Lushin dort einzutreffen . » Nun , wer war denn das ? « fragte Rasumichin , '
+
+
+' Porfirij ' [B-GPE] in : ' aßen wir zu Mittag , und dann ging ich zu Porfirij . Sametow war immer noch bei ihm . Ich wollte ein Gespräch über die Sache '
+
+
+' Porfirij ' [B-GPE] in : ' an . Für Rasumichins jetzigen Bericht über seinen Besuch bei Porfirij interessierte er sich nur sehr wenig : so vieles war in der Zwischenzeit in den '
+
+
+' Samowar ' [B-GPE] in : ' auf , an dem runden Tische , auf dem der Samowar summte , Platz zu nehmen . Dunja und Lushin setzten sich einander gegenüber ; Rasumichin '
+
+
+' Petersburg ' [B-GPE] in : ' Iwanowitsch Swidrigailow unmittelbar nach der Beerdigung seiner Gemahlin eiligst nach Petersburg gereist ist . Wenigstens besagen das die sehr genauen Nachrichten , die ich erhalten habe '
+
+
+' Petersburg ' [B-GPE] in : ' Nachrichten , die ich erhalten habe . « » Nach Petersburg ? Hierher ? « fragte Dunja beunruhigt und wechselte einen Blick mit ihrer Mutter . '
+
+
+' Petersburg ' [B-GPE] in : ' über Geldmittel verfügt , so wird er sicher hier in Petersburg sofort wieder sein altes Leben anfangen . Er ist das verkommenste , lasterhafteste Subjekt unter '
+
+
+' Sibirien ' [B-GPE] in : ' Mord handelte , für den er recht wohl hätte nach Sibirien spazieren können . So ein Mensch ist das , wenn es Sie interessiert . « '
+
+
+' Filipp ' [B-GPE] in : ' ich habe nur eine sehr sonderbare Geschichte gehört : dieser Filipp wäre eine Art Hypochonder , so ein Dorfphilosoph gewesen ; er hätte nach der Ansicht '
+
+
+' Dunja ' [B-GPE] in : ' Und doch war er schon damals , als er um Dunja anhielt , von der Sinnlosigkeit aller dieser Klatschereien völlig überzeugt gewesen ; sie waren ja '
+
+
+' Dunja ' [B-GPE] in : ' hatte . Aber trotzdem rechnete er sich seinen Entschluß , Dunja zu sich heraufzuheben , hoch an und hielt ihn für eine große , edle Tat '
+
+
+' Petersburg ' [B-GPE] in : ' er hatte sich entschlossen , es mit dem Leben in Petersburg zu versuchen . Er wußte , daß sich durch Frauen sehr viel erreichen läßt . '
+
+
+' Rußland ' [B-GPE] in : ' , daß bei uns , ich meine bei uns in Rußland und ganz besonders in unsern Petersburger Kreisen , wenn zwei verständige Menschen zusammenkommen , die '
+
+
+' Petersburger ' [B-GPE] in : ' meine bei uns in Rußland und ganz besonders in unsern Petersburger Kreisen , wenn zwei verständige Menschen zusammenkommen , die miteinander noch nicht näher bekannt sind '
+
+
+' Sewastopol ' [B-GPE] in : ' gleich nach der Schlacht an der Alma kluge Leute in Sewastopol eine Heidenangst hatten , der Feind könnte jeden Augenblick mit offener Gewalt einen Angriff machen '
+
+
+' Sewastopol ' [B-GPE] in : ' könnte jeden Augenblick mit offener Gewalt einen Angriff machen und Sewastopol mit einem Schlage einnehmen ; aber als sie sahen , daß der Feind eine regelrechte '
+
+
+' Porfirijs ' [B-GPE] in : ' und unmittelbar darauf trat ein sehr blaß aussehender Mensch in Porfirijs Arbeitszimmer . Die äußere Erscheinung dieses Menschen war auf den ersten Blick sehr überraschend . '
+
+
+' Petersburg ' [B-GPE] in : ' eine gewisse Furcht . Er hatte nach seiner Ankunft in Petersburg nicht lediglich aus schäbiger Sparsamkeit bei ihm Quartier genommen , wiewohl dies allerdings der Hauptgrund '
+
+
+' Petersburg ' [B-GPE] in : ' wie alle Leute , gehört , es gebe namentlich in Petersburg sogenannte Reformer , Nihilisten , Entlarver usw . ; aber gleich vielen andern Leuten hatte '
+
+
+' Petersburg ' [B-GPE] in : ' , besonders wenn er an die Verlegung seiner Tätigkeit nach Petersburg gedacht hatte . In dieser Hinsicht war er , wie man sich auszudrücken pflegt , '
+
+
+' Petersburg ' [B-GPE] in : ' Pjotr Petrowitsch vorgenommen , sich gleich nach seiner Ankunft in Petersburg zu erkundigen , was es mit diesen Klubs für eine Bewandtnis habe , und , '
+
+
+' der ' [B-FAC] in : ' einer neuen » Kommune « nicht weit vom Kanal in der Meschtschanskaja - Straße zu fördern oder auch seiner Gattin Awdotja Romanowna nicht hinderlich zu sein '
+
+
+' Frankreich ' [B-GPE] in : ' . Auch als ich ihr etwas über die Arbeiterassoziationen in Frankreich vortrug , hörte sie aufmerksam zu . Jetzt behandle ich mit ihr die Frage des '
+
+
+' Jamaikarum ' [B-GPE] in : ' kein Schuhzeug , nichts ; aber trotzdem kauft sie heute Jamaikarum ein und Madeira und . . . und . . . und Kaffee . Ich '
+
+
+' dem ' [B-FAC] in : ' weitgehendste Vollmacht erteilt , ihr alles überlassen und war nach dem Kirchhof gegangen . Und wirklich war alles in denkbar bester Weise hergerichtet : auf dem '
+
+
+' Polen ' [B-GPE] in : ' heißt Amalia Iwanowna , Polenjka , Sonja und dem kleinen Polen , erzählt , dieser sehr vornehme , hochherzige Mann , der ganz vorzügliche Verbindungen und '
+
+
+' Polen ' [B-GPE] in : ' dieser Mensch durch die vereinten Bemühungen Amalia Iwanownas und des Polen schleunigst wieder hinausbefördert wurde . Der Pole hatte übrigens noch zwei andre Polen mitgebracht , '
+
+
+' Tische ' [B-FAC] in : ' und ersuchte sie dann sehr von oben herab , am Tische Platz zu nehmen . Da sie aber , Gott weiß warum , meinte , an '
+
+
+' Petersburg ' [B-GPE] in : ' bemerkt , Rodion Romanowitsch , daß alle diese Ausländer in Petersburg , und ganz besonders die Deutschen , die hier bei uns zusammenströmen , ohne Ausnahme '
+
+
+' T ' [B-GPE] in : ' wie sie mit Hilfe der erwirkten Witwenpension in ihrer Heimatstadt T . . . ganz bestimmt ein vornehmes Mädchenpensionat eröffnen werde . Hiervon hatte Raskolnikow aus '
+
+
+' T ' [B-GPE] in : ' , alle Einzelheiten des künftigen schönen , ruhigen Lebens in T . . . zu schildern ; sie sprach von den Gymnasiallehrern , die sie auffordern '
+
+
+' T ' [B-GPE] in : ' , Französisch gelernt hatte und der auch jetzt noch in T . . . seinen Lebensabend verbringe und gewiß für einen sehr mäßigen Preis an ihrer '
+
+
+' T ' [B-GPE] in : ' auf Sonja zu sprechen , die mit ihr zusammen nach T . . . ziehen und ihr dort in allem zur Hand gehen werde . Aber '
+
+
+' Berlin ' [B-GPE] in : ' sie selbst aber habe einen Vater gehabt , der aus Berlin gewesen sei und einen ganz langen Rock getragen und immer » puh , puh , '
+
+
+' Sibirien ' [B-GPE] in : ' , Polizei ! « heulte Amalia Iwanowna . » Nach Sibirien müssen sie geschickt werden ! Hinaus ! « Von allen Seiten erschollen Ausrufe des Staunens '
+
+
+' Petersburg ' [B-GPE] in : ' Schwester Awdotja Romanowna Raskolnikowa . Aber nach seiner Ankunft in Petersburg geriet er vorgestern bei unserm ersten Zusammensein in Streit mit mir , und ich wies '
+
+
+' Sibirien ' [B-GPE] in : ' von neuem . » Ich gehe mit dir zusammen nach Sibirien ! « Es gab ihm einen plötzlichen Ruck ; das verächtliche , hochmütige Lächeln trat '
+
+
+' Wosnessenskij ' [B-FAC] in : ' und den Beutel habe ich auf einem fremden Hofe am Wosnessenskij - Prospekt unter einem Steine verborgen , gleich am andern Morgen . . . Da '
+
+
+' Toulon ' [B-GPE] in : ' wäre und , um seine Laufbahn zu beginnen , weder Toulon noch Ägypten , noch den Übergang über den St . Bernhard gehabt hätte , sondern '
+
+
+' Ägypten ' [B-GPE] in : ' , um seine Laufbahn zu beginnen , weder Toulon noch Ägypten , noch den Übergang über den St . Bernhard gehabt hätte , sondern wenn statt '
+
+
+' den ' [B-GPE] in : ' , weder Toulon noch Ägypten , noch den Übergang über den St . Bernhard gehabt hätte , sondern wenn statt all dieser schönen , großartigen Dinge '
+
+
+' Paris ' [B-GPE] in : ' aber haben Sie nicht davon gehört , daß man in Paris bereits ernsthafte Versuche hinsichtlich der Möglichkeit , Irrsinnige lediglich vermittelst logischer Überzeugung zu heilen , '
+
+
+' Petersburg ' [B-GPE] in : ' nicht wieder zurückkehre . Mögen alle sehen , mag ganz Petersburg sehen , wie die Kinder eines vornehmen Mannes , der sein ganzes Leben lang treu '
+
+
+' der ' [B-FAC] in : ' Schutzmann ? Wir haben uns eben erst vor einem aus der Meschtschanskaja - Straße hierhergeflüchtet . . . Was geht dich das an , was wir '
+
+
+' Erde ' [B-LOC] in : ' . Ein andermal erwachte er vor Tagesanbruch irgendwo auf der Erde im Gebüsch und hatte kaum eine Erinnerung daran , wie er dahin gekommen war . '
+
+
+' den ' [B-FAC] in : ' die Menge mischte , Restaurants und Schenken besuchte und auf den Trödelmarkt und den Heumarkt ging . Hier wurde es ihm etwas leichter ums Herz , '
+
+
+' den ' [B-FAC] in : ' , Restaurants und Schenken besuchte und auf den Trödelmarkt und den Heumarkt ging . Hier wurde es ihm etwas leichter ums Herz , und hier kam '
+
+
+' der ' [B-LOC] in : ' Dies war die Nacht , wo er vor Tagesanbruch auf der Krestowskij - Insel im Gebüsch erwachte , an allen Gliedern vor Fieberfrost zitternd . Er '
+
+
+' Saraisk ' [B-GPE] in : ' Das alles habe ich von Nikolai und seinen Landsleuten aus Saraisk erfahren . Ja , noch mehr ! Er wollte in die Einöde wandern und dort '
+
+
+' Petersburg ' [B-GPE] in : ' Büchern so lange , bis sein Verstand darunter litt . Petersburg hat auf ihn einen gewaltigen Eindruck gemacht , namentlich das weibliche Geschlecht , na , '
+
+
+' Petersburg ' [B-GPE] in : ' Dunja durch einen Boten einen Brief erhalten ! Wer in Petersburg könne denn an sie Briefe schreiben ? Etwa Lushin ? Freilich halte Rasumichin dort Wache '
+
+
+' Heumarkt ' [B-FAC] in : ' . skij - Prospekt , dreißig oder vierzig Schritte vom Heumarkt entfernt , den er passiert hatte . Das ganze erste Stockwerk eines Hauses linker Hand '
+
+
+' Saale ' [B-LOC] in : ' Sängerin , die , unbekümmert um den Chorgesang im angrenzenden Saale , mit recht heiserer Altstimme zur Drehorgel einen Gassenhauer sang . » Na , nun '
+
+
+' Petersburg ' [B-GPE] in : ' Straße heraufgeholt worden . Swidrigailow wohnte kaum eine Woche in Petersburg und stand doch schon mit seiner ganzen Umgebung in einer Art von patriarchalischem Verhältnis . '
+
+
+' Petersburg ' [B-GPE] in : ' Und noch eines : ich glaube , es gibt in Petersburg viele Leute , die im Gehen Selbstgespräche halten . Es ist eben eine Stadt von '
+
+
+' Petersburger ' [B-GPE] in : ' die Juristen und die Philosophen die wertvollsten Untersuchungen über die Petersburger Bevölkerung anstellen , jeder in seinem Fache . Es gibt wenige Orte , wo sich '
+
+
+' Petersburg ' [B-GPE] in : ' auf die menschliche Seele wirken , vereinigt finden wie in Petersburg . Wie mächtig sind allein schon die Einwirkungen des Klimas ! Und dabei ist nun '
+
+
+' Petersburg ' [B-GPE] in : ' schon die Einwirkungen des Klimas ! Und dabei ist nun Petersburg der administrative Mittelpunkt von ganz Rußland , so daß der Charakter dieser Hauptstadt auf das '
+
+
+' Rußland ' [B-GPE] in : ' Und dabei ist nun Petersburg der administrative Mittelpunkt von ganz Rußland , so daß der Charakter dieser Hauptstadt auf das ganze Reich zurückwirken muß . Aber '
+
+
+' Petersburg ' [B-GPE] in : ' eigentlich für ein Mensch , und warum sind Sie nach Petersburg gekommen ? « » Was ich für ein Mensch bin ? Nun , das wissen '
+
+
+' Petersburg ' [B-GPE] in : ' bei der Kavallerie gedient ; dann habe ich hier in Petersburg herumgebummelt ; dann habe ich Marfa Petrowna geheiratet und auf dem Lande gelebt . Das '
+
+
+' Petersburg ' [B-GPE] in : ' » Ach , erinnern Sie mich nicht daran ; in Petersburg ist es noch nicht vorgekommen ; hol der Teufel die Geistererscheinungen ! « rief er '
+
+
+' die ' [B-LOC] in : ' ; im vierten oder fünften Jahrhundert aber wäre sie in die ägyptische Wüste gegangen und hätte dort dreißig Jahre lang gewohnt und sich von Wurzeln , '
+
+
+' Petersburg ' [B-GPE] in : ' mir auf und davon zu gehen , beispielsweise hierher nach Petersburg . Natürlich hätte ich ihr dann ewige Liebe , Glückseligkeit und so weiter und so '
+
+
+' Petersburg ' [B-GPE] in : ' manches zu finden vermag . Ein tolles Leben hier in Petersburg ; das niedere Volk säuft ; die gebildete Jugend überläßt sich einem untätigen Müßiggange , '
+
+
+' Petersburger ' [B-GPE] in : ' meine Freude daran , wie sich bei solchen Gelegenheiten Ihr Petersburger Publikum benimmt , auch wenn es nur ein Cancanpublikum ist ) , alle lachten und '
+
+
+' Petersburg ' [B-GPE] in : ' ein kleines möbliertes Stübchen und sind erst ganz kürzlich in Petersburg angekommen ) . Die Mutter erklärte mir , sie und ihre Tochter könnten sich meine '
+
+
+' dem ' [B-FAC] in : ' Eindruck . Darum ist nun auch Sofja Semjonowna heute nach dem . . . schen Hotel hinbestellt worden , wo meine Bekannte nach der Heimkehr von '
+
+
+' Amerika ' [B-GPE] in : ' zu seinem Vergnügen totschlagen , dann fahren Sie schleunigst nach Amerika ! Fliehen Sie , junger Mann ! Vielleicht ist noch Zeit dazu . Ich rate '
+
+
+' der ' [B-LOC] in : ' zu machen ? Hier , ich nehme diese Droschke nach der Jelagin - Insel . Wie ? Sie wollen nicht ? Also bleiben Sie Ihrer Absicht '
+
+
+' Trottoir ' [B-FAC] in : ' betrat die Brücke nicht , sondern blieb seitwärts auf dem Trottoir stehen und gab sich die größte Mühe , von Raskolnikow nicht gesehen zu werden . '
+
+
+' Stolz ' [B-GPE] in : ' Hause sei , unterließ es aber . . . aus Stolz . Außerdem quälte ein anderes , unvergleichlich viel größeres Leid als die Furcht für ihre '
+
+
+' Dunja ' [B-GPE] in : ' setzte sich auf das Sofa , etwa acht Schritte von Dunja entfernt . Für sie bestand nicht der geringste Zweifel an seiner unerschütterlichen Entschlossenheit . Dazu '
+
+
+' der ' [B-FAC] in : ' betäubt aus dem Hause und rannte am Kanal entlang nach der . . . schen Brücke zu . Swidrigailow blieb noch etwa drei Minuten lang am '
+
+
+' München ' [B-GPE] in : ' Ein elender Sängerchor und ein betrunkener , rotnasiger Deutscher aus München , eine Art von Possenreißer , der aber , Gott weiß warum , sehr trübsinnig '
+
+
+' Amerika ' [B-GPE] in : ' zuzuhören . » Sofja Semjonowna , ich reise vielleicht nach Amerika « , sagte Swidrigailow , » und da ich Sie wahrscheinlich zum letzten Male sehe '
+
+
+' Sibirien ' [B-GPE] in : ' : entweder eine Kugel in den Kopf – oder nach Sibirien . « ( Sonja blickte ihn scheu an und fing an zu zittern . ) '
+
+
+' Sibirien ' [B-GPE] in : ' sein . Na , wenn es also zur Verschickung nach Sibirien kommt , dann werden Sie doch mit ihm gehen ? Nicht wahr ? Nicht wahr '
+
+
+' Amerika ' [B-GPE] in : ' Regen ausgehen ? « » Na , wenn einer nach Amerika reisen will , dann darf er sich doch nicht vor einem Regen fürchten , he '
+
+
+' der ' [B-LOC] in : ' elf Uhr die ärmliche Wohnung der Eltern seiner Braut auf der Wassilij - Insel in der dritten Linie beim Kleinen Prospekt . Nur mit großer Mühe '
+
+
+' Kleinen ' [B-LOC] in : ' auf der Wassilij - Insel in der dritten Linie beim Kleinen Prospekt . Nur mit großer Mühe hatte er sich durch Klopfen Eingang verschafft und hatte '
+
+
+' Paris ' [B-GPE] in : ' , begann sie mit den neugierigsten , eifrigsten Fragen über Paris und das dortige Hofleben und gelangte dann so ganz allmählich auch zur dritten Linie auf '
+
+
+' der ' [B-LOC] in : ' gelangte dann so ganz allmählich auch zur dritten Linie auf der Wassilij - Insel . Zu anderer Zeit verhielt sich Swidrigailow diesem schlauen Verfahren gegenüber ja '
+
+
+' Petersburg ' [B-GPE] in : ' ohne Umschweife mit , er müsse aus sehr wichtigem Anlasse Petersburg für einige Zeit verlassen ; er habe ihr daher fünfzehntausend Rubel in allerlei Wertpapieren mitgebracht '
+
+
+' die ' [B-FAC] in : ' gegangen . Unterdessen ging Swidrigailow ziemlich genau um Mitternacht über die Tutschkow - Brücke nach dem Stadtteil Peterburgskaja zu . Der Regen hatte aufgehört ; aber '
+
+
+' Peterburgskaja ' [B-GPE] in : ' um Mitternacht über die Tutschkow - Brücke nach dem Stadtteil Peterburgskaja zu . Der Regen hatte aufgehört ; aber ein starker Wind brauste . Er begann '
+
+
+' der ' [B-LOC] in : ' mit besonderem Interesse und sogar wie fragend das schwarze Wasser der Kleinen Newa . Aber bald wurde es ihm zu kalt , so über dem Wasser '
+
+
+' Zur ' [B-FAC] in : ' , soweit er sich erinnerte , ungefähr so wie » Zur Stadt Adrianopel « geheißen . Er hatte sich nicht geirrt ; das Gasthaus bildete in '
+
+
+' den ' [B-FAC] in : ' er erinnerte sich , mit welchem Widerwillen er vorhin an den Petrowskij - Park , an dem er vorbeigekommen war , gedacht hatte . Dabei fielen '
+
+
+' die ' [B-FAC] in : ' vorbeigekommen war , gedacht hatte . Dabei fielen ihm auch die Tutschkow - Brücke und die Kleine Newa ein , und ihn packte wieder ein Kältegefühl '
+
+
+' die ' [B-FAC] in : ' . Dabei fielen ihm auch die Tutschkow - Brücke und die Kleine Newa ein , und ihn packte wieder ein Kältegefühl , wie ein Weilchen vorher '
+
+
+' den ' [B-FAC] in : ' einen besonderen Platz aussucht . Ich hätte einfach vorhin in den Petrowskij - Park einbiegen sollen ! Aber da war es mir wohl zu dunkel und '
+
+
+' dem ' [B-FAC] in : ' Ich will gleich von hier weggehen , und geradeswegs nach dem Petrowskij - Park . Da suche ich mir ein großes Gebüsch aus , das ganz '
+
+
+' der ' [B-LOC] in : ' schritt auf dem schlüpfrigen , schmutzigen Holzpflaster hin , nach der Kleinen Newa zu . Er mußte immer an das über Nacht stark gestiegene Wasser der '
+
+
+' der ' [B-LOC] in : ' Er mußte immer an das über Nacht stark gestiegene Wasser der Kleinen Newa denken , an die Petrowskij - Insel , die feuchten Fußwege , das '
+
+
+' die ' [B-LOC] in : ' Nacht stark gestiegene Wasser der Kleinen Newa denken , an die Petrowskij - Insel , die feuchten Fußwege , das feuchte Gras , die feuchten Bäume '
+
+
+' dem ' [B-FAC] in : ' ein guter Platz ; wozu soll ich da erst nach dem Petrowskij - Park gehen ? Wenigstens habe ich da gleich einen offiziellen Zeugen . . '
+
+
+' die ' [B-FAC] in : ' Er lächelte beinahe über diesen neuen Gedanken und bog in die . . . skaja - Straße ein . Hier standen ein großes Haus und der '
+
+
+' Amerika ' [B-GPE] in : ' Nach 'nem fernen Lande ? « » Ja , nach Amerika . « » Nach Amerika ? « Swidrigailow zog den Revolver heraus und spannte den '
+
+
+' Amerika ' [B-GPE] in : ' « » Ja , nach Amerika . « » Nach Amerika ? « Swidrigailow zog den Revolver heraus und spannte den Hahn . Achilles zog die '
+
+
+' Amerika ' [B-GPE] in : ' antworte nur , ich hätte gesagt , daß ich nach Amerika reisen wollte . « Er setzte den Revolver an seine rechte Schläfe . » Das '
+
+
+' Sibirien ' [B-GPE] in : ' Jedenfalls ! Darum eben schicken sie mich ja jetzt nach Sibirien ; gerade das bezwecken sie . . . Da rennen nun alle die Menschen auf '
+
+
+' Sibirien ' [B-GPE] in : ' das Gericht sollte einmal versuchen , mir die Verschickung nach Sibirien zu ersparen – da würden sie alle aus der Haut fahren vor edler Entrüstung ! '
+
+
+' Sibirien ' [B-GPE] in : ' hatte , Raskolnikow habe nur zwei Wege vor sich : Sibirien oder – . Zudem kannte sie seine Eitelkeit , seinen Hochmut , sein Ehrgefühl und '
+
+
+' Jerusalem ' [B-GPE] in : ' Bursche . Die Leute lachten . » Der geht nach Jerusalem , Brüder , und nimmt vorher von seinen Kindern und von seiner Heimat Abschied , '
+
+
+' Petersburg ' [B-GPE] in : ' verneigt sich vor der ganzen Welt und küßt die Residenzstadt Petersburg und ihren Boden ! « fügte ein etwas angetrunkener Kleinbürger hinzu . » Es ist '
+
+
+' Petersburg ' [B-GPE] in : ' Ich höre , Ihre Angehörigen sind zu Ihnen hierher nach Petersburg gekommen ? « » Ja , meine Mutter und meine Schwester . « » Ich '
+
+
+' Petersburg ' [B-GPE] in : ' von dem Selbstmorde eines Herrn , der erst kürzlich nach Petersburg gekommen ist . Nil Pawlowitsch , he ! Nil Pawlowitsch ! Wie hieß doch der '
+
+
+' Peterburgskaja ' [B-GPE] in : ' den wir Anzeige bekamen , daß er sich in der Peterburgskaja erschossen hat ? « » Swidrigailow « , antwortete teilnahmslos eine heisere Stimme aus dem '
+
+
+' Sibirien ' [B-GPE] in : ' kamen Beamte herbeigelaufen . Raskolnikow wiederholte seine Selbstanzeige . I Sibirien . Am Ufer eines breiten , öden Stromes liegt eine Stadt , der Sitz höherer '
+
+
+' dem ' [B-FAC] in : ' Hause gekommen sei , und zum Schlusse bezeichnete er auf dem Wosnessenskij - Prospekte , auf dem Hofe , am Tore , den Stein , unter '
+
+
+' den ' [B-LOC] in : ' , als sie noch in einem anderen Hause , bei den Fünf - Ecken , gewohnt hätten , Raskolnikow bei einer nächtlichen Feuersbrunst aus einer bereits '
+
+
+' Petersburg ' [B-GPE] in : ' möglich , sie für die ganze Dauer der Gerichtsverhandlungen aus Petersburg fortzuschaffen . Rasumichin wählte dazu eine nicht weit von Petersburg an der Eisenbahn gelegene Stadt '
+
+
+' Petersburg ' [B-GPE] in : ' Petersburg fortzuschaffen . Rasumichin wählte dazu eine nicht weit von Petersburg an der Eisenbahn gelegene Stadt aus , um den Prozeß in seinem ganzen Gange regelmäßig '
+
+
+' Rußlands ' [B-GPE] in : ' : Raskolnikow sei nach einem fernen Orte an der Grenze Rußlands gereist , infolge eines privaten Auftrages , der ihm endlich Geld und Berühmtheit eintragen werde '
+
+
+' Sibirien ' [B-GPE] in : ' , wenigstens eine gewisse Summe Geldes zusammenzusparen und dann nach Sibirien überzusiedeln , wo der Boden in jeder Beziehung reich sei , während es an Arbeitern '
+
+
+' Rodja ' [B-GPE] in : ' dort wollte er sich dann in derselben Stadt , wo Rodja sein würde , niederlassen , . . . und da sollte für alle ein neues '
+
+
+' Sibirien ' [B-GPE] in : ' beide rechneten fest darauf , in fünf Jahren bestimmt nach Sibirien überzusiedeln . Bis dahin verließen sie sich auf Sonjas dortige Wirksamkeit . Pulcheria Alexandrowna hatte '
+
+
+' Petersburg ' [B-GPE] in : ' nichts vom Tode seiner Mutter , obgleich ein Briefwechsel mit Petersburg gleich vom Anfange seines Aufenthaltes in Sibirien an begonnen hatte . Dieser Briefwechsel fand durch '
+
+
+' Sibirien ' [B-GPE] in : ' ein Briefwechsel mit Petersburg gleich vom Anfange seines Aufenthaltes in Sibirien an begonnen hatte . Dieser Briefwechsel fand durch Sonjas Vermittlung statt ; sie schrieb regelmäßig '
+
+
+' Petersburg ' [B-GPE] in : ' Sonjas Vermittlung statt ; sie schrieb regelmäßig jeden Monat nach Petersburg an Rasumichins Adresse und empfing pünktlich jeden Monat aus Petersburg eine Antwort . Sonjas Briefe '
+
+
+' Petersburg ' [B-GPE] in : ' Petersburg an Rasumichins Adresse und empfing pünktlich jeden Monat aus Petersburg eine Antwort . Sonjas Briefe erschienen Dunja und Rasumichin anfangs etwas trocken und unbefriedigend ; '
+
+
+' den ' [B-LOC] in : ' entweder in den Werkstätten oder in den Ziegeleien oder in den Schuppen am Ufer des Irtysch . Über sich selbst teilte Sonja mit , daß es '
+
+
+' Polen ' [B-GPE] in : ' kräftig wären . Im Gefängnisse befanden sich auch einige verbannte Polen , politische Sträflinge ; diese blickten auf die Leute geringeren Standes sehr von oben herab '
+
+
+' Asien ' [B-LOC] in : ' Seuche zum Opfer zu fallen , die aus dem inneren Asien ihren Weg nach Europa nehme . Alle Menschen sollten umkommen außer einigen ganz wenigen Auserwählten '
+
+
+' Europa ' [B-LOC] in : ' fallen , die aus dem inneren Asien ihren Weg nach Europa nehme . Alle Menschen sollten umkommen außer einigen ganz wenigen Auserwählten . Es war eine '
+
+
